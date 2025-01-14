@@ -6,10 +6,14 @@
   </a>
 </div>
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; gap: 15px; margin-top: 10px;">
   <a href="https://www.linkedin.com/in/jairo-júnior" target="_blank" style="display: inline-block;">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
          alt="LinkedIn Logo" style="width: 50px; height: 50px;">
+  </a>
+  <a href="https://leetcode.com/u/u7A1I33hcG/" target="_blank" style="display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
+         alt="LeetCode Logo" style="width: 50px; height: 50px;">
   </a>
 </div>
 
