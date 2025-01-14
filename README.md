@@ -1,26 +1,30 @@
-### J41R0 JUNIOR
+# Hey World, I'm J41R0 JUNIOR! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30">
 
-<div style="display: flex; justify-content: center;">
-  <a href="https://github.com/J41R0JUNIOR" style="display: flex;">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J41R0JUNIOR&layout=compact&langs_count=16&theme=radical&hide=jupyter%20notebook,html,css"/>
-  </a>
-</div>
+:computer: I'm a Developer
 
-<div style="display: flex; justify-content: center; gap: 15px; margin-top: 10px;">
-  <a href="https://www.linkedin.com/in/jairo-júnior" target="_blank" style="display: inline-block;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
-         alt="LinkedIn Logo" style="width: 50px; height: 50px;">
-  </a>
-  <a href="https://leetcode.com/u/u7A1I33hcG/" target="_blank" style="display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
-         alt="LeetCode Logo" style="width: 50px; height: 50px;">
-  </a>
-</div>
+:books: I’m currently learning advanced development and mathematics.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/c.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/java.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+## Connect with me
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairo-júnior)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/u7A1I33hcG/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J41R0JUNIOR)
+
+<a href="mailto:jairojunior@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+## Language and Tools
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## Development Tools
+
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+
+## Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J41R0JUNIOR&layout=compact&hide=jupyter%20notebook,html,css)](https://github.com/J41R0JUNIOR/github-readme-stats)
