@@ -6,10 +6,13 @@
   </a>
 </div>
 
+<div style="display: flex; justify-content: center;">
 <a href="https://www.linkedin.com/in/jairo-júnior" target="_blank" style="display: inline-block;">
   <img src="https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831590218?e=1744848000&v=beta&t=YzSWtVgDjOjlkQ8WhICYnhJZYSpSBszznZUaAs-Alac" 
-       alt="LinkedIn Logo"">
+       alt="LinkedIn Logo" style="width: 50px; height: 50px;">
 </a>
+</div>
+
 
 
 <div style="display: inline_block"><br>
