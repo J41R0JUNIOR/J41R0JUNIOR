@@ -2,11 +2,7 @@
 
 <div style="display: flex; justify-content: center;">
   <a href="https://github.com/J41R0JUNIOR" style="display: flex;">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=J41R0JUNIOR&show_icons=true&theme=radical&include_all_commits=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J41R0JUNIOR&layout=compact&langs_count=16&theme=radical&hide=jupyter%20notebook,html,css"/>
-
-
-  </a>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J41R0JUNIOR&layout=compact&langs_count=16&theme=radical&hide=jupyter%20notebook,html,css"/></a>
 </div>
 
 <div style="display: inline_block"><br>
