@@ -21,7 +21,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-00599C?style=for-the-badge&logo=typescript&logoColor=purple)
+![TypeScript](https://img.shields.io/badge/TypeScript-00599C?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Development Tools
 
