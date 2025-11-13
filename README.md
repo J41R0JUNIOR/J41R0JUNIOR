@@ -38,4 +38,4 @@
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J41R0JUNIOR&layout=compact&hide=jupyter%20notebook,html,css)](https://github.com/J41R0JUNIOR/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J41R0JUNIOR&layout=compact&hide=jupyter%20notebook,html,css,swift)](https://github.com/J41R0JUNIOR/github-readme-stats)
