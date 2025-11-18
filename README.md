@@ -37,6 +37,3 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
-## Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J41R0JUNIOR&layout=compact&hide=jupyter%20notebook,html,css,swift)](https://github.com/J41R0JUNIOR/github-readme-stats)
