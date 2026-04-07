@@ -1,4 +1,4 @@
-# J41R0 JUNIOR <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40">
+# J41R0 JUNIOR <img src="https://avatars.githubusercontent.com/u/81876783?v=4" width= 25 >
 
 :computer: I'm a Developer
 
