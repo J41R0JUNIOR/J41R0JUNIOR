@@ -4,9 +4,10 @@
     alt="Header"
     width="100%"
   />
+  <h1>
+    Jairo Júnior
+  </h1>
 </div>
-
-# J41R0 JUNIOR <img src="https://avatars.githubusercontent.com/u/81876783?v=4" width="25">
 
 💻 I'm a Backend Developer
 
