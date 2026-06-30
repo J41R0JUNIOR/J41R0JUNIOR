@@ -1,4 +1,3 @@
-
 <div align="center">
   <img
     src="https://raw.githubusercontent.com/J41R0JUNIOR/J41R0JUNIOR/refs/heads/test/files/header.png"
@@ -12,10 +11,6 @@
 💻 I'm a Backend Developer
 
 📚 I’m currently learning advanced backend development, distributed systems, cloud architecture, and mathematics.
-
-:computer: I'm a Developer
-
-:books: I’m currently learning advanced development and mathematics.
 
 ## Connect with me
 
@@ -43,10 +38,3 @@
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
-## Development Tools
-
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-
