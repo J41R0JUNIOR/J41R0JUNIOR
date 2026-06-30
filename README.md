@@ -1,4 +1,17 @@
-# J41R0 JUNIOR <img src="https://avatars.githubusercontent.com/u/81876783?v=4" width= 25 >
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/J41R0JUNIOR/J41R0JUNIOR/refs/heads/test/files/header.png"
+    alt="Header"
+    width="100%"
+  />
+</div>
+
+# J41R0 JUNIOR <img src="https://avatars.githubusercontent.com/u/81876783?v=4" width="25">
+
+💻 I'm a Backend Developer
+
+📚 I’m currently learning advanced backend development, distributed systems, cloud architecture, and mathematics.
 
 :computer: I'm a Developer
 
