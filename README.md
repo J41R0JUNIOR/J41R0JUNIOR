@@ -27,7 +27,7 @@
 <table>
   <tbody>
      <tr>
-      <td>
+      <td align="center">
         Languages
         <div>
           <img src="https://img.shields.io/badge/Java-2D1B69?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -37,7 +37,7 @@
           <img src="https://img.shields.io/badge/C-2D1B69?style=for-the-badge&logo=c&logoColor=white"/>
         </div>
       </td>
-      <td>
+      <td align="center">
         Backend
         <div>
           <img src="https://img.shields.io/badge/Quarkus-2D1B69?style=for-the-badge&logo=quarkus&logoColor=white"/>
@@ -48,7 +48,7 @@
       </td>
     </tr>
     <tr>
-      <td>
+      <td align="center">
         Databases
         <div>
           <img src="https://img.shields.io/badge/PostgreSQL-2D1B69?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -58,7 +58,7 @@
           <img src="https://img.shields.io/badge/DynamoDB-2D1B69?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
         </div>
       </td>
-      <td>
+      <td align="center">
         Cloud & DevOps
         <div>
           <img src="https://img.shields.io/badge/AWS-2D1B69?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
