@@ -26,13 +26,10 @@
 ####  Languages
 
 ![Java](https://img.shields.io/badge/Java-2D1B69?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-2D1B69?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2D1B69?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-2D1B69?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Swift](https://img.shields.io/badge/Swift-2D1B69?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-2D1B69?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-2D1B69?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-2D1B69?style=for-the-badge&logo=csharp&logoColor=white)
 
 ####  Backend
 ![Quarkus](https://img.shields.io/badge/Quarkus-2D1B69?style=for-the-badge&logo=quarkus&logoColor=white)
@@ -57,12 +54,5 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=J41R0JUNIOR&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
-# Activity Graph
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=J41R0JUNIOR&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&hide_border=true"/>
 
 </div>
