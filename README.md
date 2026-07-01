@@ -5,15 +5,15 @@
     width="100%"
   />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2D1B69?style=for-the-badge&logo=linkedin&logoColor=white&backgroundColor=purple)](https://www.linkedin.com/in/jairo-jun10r)
-[![LeetCode](https://img.shields.io/badge/LeetCode-2D1B69?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/u7A1I33hcG/)
-[![GitHub](https://img.shields.io/badge/GitHub-2D1B69?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J41R0JUNIOR)
-[![Medium](https://img.shields.io/badge/Medium-2D1B69?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jairojjr2003)
-[![Gmail](https://img.shields.io/badge/Gmail-2D1B69?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jairojjr2003@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-2D1B69?style=for-the-badge&logo=linkedin&logoColor=white&backgroundColor=purple)](https://www.linkedin.com/in/jairo-jun10r)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-2D1B69?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/u7A1I33hcG/)
+  [![GitHub](https://img.shields.io/badge/GitHub-2D1B69?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J41R0JUNIOR)
+  [![Medium](https://img.shields.io/badge/Medium-2D1B69?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jairojjr2003)
+  [![Gmail](https://img.shields.io/badge/Gmail-2D1B69?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jairojjr2003@gmail.com)
 
-Jairo Júnior
+  <b>Jairo Júnior</b>
 
-Living at the intersection of distributed systems, cloud architecture, software engineering, and mathematics.
+  Living at the intersection of distributed systems, cloud architecture, software engineering, and mathematics.
 </div>
 
 ## 👨‍💻 About Me
