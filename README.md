@@ -66,9 +66,3 @@ Living at the intersection of distributed systems, cloud architecture, software 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=J41R0JUNIOR&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&hide_border=true"/>
 
 </div>
-
-<div align="center">
-
-### 💜 *"Code. Learn. Build. Repeat."*
-
-</div>
